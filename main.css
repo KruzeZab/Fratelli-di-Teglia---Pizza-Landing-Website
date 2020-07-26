@@ -394,7 +394,7 @@ a {
 }
 
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 600px) {
     .pizza-menu__container {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -413,7 +413,7 @@ a {
     }
 }
 
-@media screen and (min-width: 776px) {
+@media screen and (min-width: 996px) {
     .pizza-menu {
         -webkit-box-flex: 0;
             -ms-flex: 0 0 calc(33.333% - 1em);
@@ -485,7 +485,7 @@ a {
 }
 
 
-@media screen and (min-width: 778px) {
+@media screen and (min-width: 996px) {
     .about-section__wrapper {
         height: 30vh;
         -ms-grid-columns: 2fr 1fr;
@@ -567,7 +567,7 @@ a {
     }
 }
 
-@media screen and (min-width: 776px) {
+@media screen and (min-width: 996px) {
     .feature__item {
         -webkit-box-flex: 0;
             -ms-flex: 0 0 calc(33.333% - 50px);
@@ -682,7 +682,7 @@ a {
 }
 
 
-@media screen and (min-width: 778px) {
+@media screen and (min-width: 996px) {
     .contact-section__wrapper {
         -ms-grid-columns: 2fr 1fr;
         grid-template-columns: 2fr 1fr;
